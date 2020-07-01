@@ -1,4 +1,4 @@
-package litecart.selenium.training;
+package litecart.selenium.training.tests;
 
 import org.junit.After;
 import org.junit.Before;
